@@ -1,3 +1,13 @@
+##
+## Makefile for  in /home/hugues/DEVC/CHIFUMI/roux_a/chifumi
+## 
+## Made by ROUX Hugues
+## Login   <roux_a@etna-alternance.net>
+## 
+## Started on  Thu Dec  1 23:12:53 2016 ROUX Hugues
+## Last update Thu Dec  1 23:12:57 2016 ROUX Hugues
+##
+
 CC		=	gcc
 NAME		=	chifumi
 NAME_LIB	=	libmy.a
